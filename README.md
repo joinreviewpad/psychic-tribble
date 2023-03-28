@@ -147,4 +147,3 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ## 📝 License
 
 Distributed under the MIT License. See [LICENSE](https://github.com/Blazity/next-saas-starter/blob/main/LICENSE.md) for more information.
-Making a simple textual change.
